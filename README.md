@@ -1,6 +1,6 @@
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
 
-<link rel= "stylesheet" href ="C:\Users\otram\OneDrive\Escritorio\testimonial2\css\estilos.css">
+<link rel= "stylesheet" href ="https://github.com/ximenar/repositorio1/blob/master/footer">
 
 
 <div class= "info-container">
